@@ -1,2 +1,2 @@
-# Resampling_Project
+# Randomized Sensor Placement
 Hello!
